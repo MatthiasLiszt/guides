@@ -14,6 +14,6 @@ There is a nice programming game called CoreWar which gives you a quick understa
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 
-[von Neumann architecture] (https://en.m.wikipedia.org/wiki/Von_Neumann_architecture)
-[CoreWar] (https://en.m.wikipedia.org/wiki/Core_War)
-[Central Processing Unit] (https://en.m.wikipedia.org/wiki/Central_processing_unit)
+<a href='https://en.m.wikipedia.org/wiki/Von_Neumann_architecture'>von Neumann architecture</a>
+<a href='https://en.m.wikipedia.org/wiki/Core_War'>CoreWar</a>
+<a href='https://en.m.wikipedia.org/wiki/Central_processing_unit'>Central Processing Unit</a>
